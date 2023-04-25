@@ -1,5 +1,5 @@
 ## Python Lab
-알고리즘을 풀다가 지루할때에 노는 곳입니다
+알고리즘을 풀다가 지루할때에 노는 곳입니다. 구현보다는 테스트코드를 먼저 작성합니다.
 
 [1. PermutationGenerator](https://github.com/ksi05503/python-lab/tree/master/permutation_generator): 순열을 배열이 아닌 해시테이블로 받고싶다는 생각에 만들어보았습니다.
 
