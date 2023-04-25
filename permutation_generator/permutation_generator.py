@@ -1,8 +1,11 @@
+# Leetcode 567 을 풀다가, 순열 결과를 배열이 아닌 해시테이블을 제공하는 클래스를 만들어보았다.
+# https://leetcode.com/problems/permutation-in-string
+
 class PermutationGenerator:
-    table = {}
 
     def __init__(self, str):
         self.str = str
+        self.table = {}
         self.init_table()
 
     def get_table(self):
